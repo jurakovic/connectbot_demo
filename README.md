@@ -1,3 +1,9 @@
+
+Repo to demonstrate removing orphaned commits. More info [here](https://stackoverflow.com/a/78392060/24712545) and [here](https://stackoverflow.com/a/78392204/24712545).
+
+---------
+---------
+
 Compiling
 ---------
 
